@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/packwiz/packwiz/cmdshared"
-	"github.com/packwiz/packwiz/core"
+	"github.com/kek-team/packwiz/cmdshared"
+	"github.com/kek-team/packwiz/core"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

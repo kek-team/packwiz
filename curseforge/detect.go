@@ -3,7 +3,7 @@ package curseforge
 import (
 	"fmt"
 	"github.com/aviddiviner/go-murmur"
-	"github.com/packwiz/packwiz/core"
+	"github.com/kek-team/packwiz/core"
 	"github.com/spf13/cobra"
 	"os"
 	"path/filepath"
